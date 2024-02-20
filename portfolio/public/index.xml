@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rayyan&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Rayyan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 20 Feb 2024 15:28:12 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/resume/</link>
+      <link>https://example.org/resume/</link>
       <pubDate>Tue, 20 Feb 2024 15:28:12 -0500</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
+      <guid>https://example.org/resume/</guid>
       <description>Education: BSE from University of Pennsylvania Major: Computer Science Minor: Mathematics Internships 2024 Summer : AI research @ //// </description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://example.org/about/</link>
       <pubDate>Tue, 20 Feb 2024 15:01:21 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://example.org/about/</guid>
       <description>Hi! I&amp;rsquo;m Rayyan Shaik, currently a second year student at UPenn studying Computer Science. I&amp;rsquo;m interested in fullstack web development and AI.</description>
     </item>
   </channel>
